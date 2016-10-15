@@ -8,7 +8,7 @@ Features --
 4.GSM Module used to provide intrusion alerts via SMS.
 
 Required Libraries
-    This contains the extra libraries required for successfull compliation. Extract them and paste them into your arduino's       Library folder.
+    This contains the extra libraries required for successfull compliation. Extract them and paste them into your arduino's Library folder.
 
 Contents Description
 
